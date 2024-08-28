@@ -24,7 +24,6 @@ from callbacks.handler import AsyncCallbackHandler
 
 
 # 보안 이슈로 깃허브에 올리려면 key를 다 따로따로 해서 합치면 올라가짐.
-# 현 개인 APIkey : sk-4gTdF4JQMisziASq9mz9Cuyxm4_Xq-VyfHw3IB3QN_T3BlbkFJN2Ct1hUYi3CiBfRi_rDQpDqj3FWAmsT07TifnQKzsA
 o = "sk-"
 p = "4gTdF4JQMisziASq9mz9Cuyxm4_Xq-"
 e = "VyfHw3IB3QN_T3BlbkFJN2Ct1hUYi3CiBfRi_"

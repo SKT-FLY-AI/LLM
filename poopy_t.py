@@ -13,9 +13,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 
 # OpenAI API key 로드
-# 팀리트리버 API KEY = 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
-
-# 현개인 API KEY = sk-4gTdF4JQMisziASq9mz9Cuyxm4_Xq-VyfHw3IB3QN_T3BlbkFJN2Ct1hUYi3CiBfRi_rDQpDqj3FWAmsT07TifnQKzsA
 
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
